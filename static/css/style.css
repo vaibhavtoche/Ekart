@@ -1,0 +1,13 @@
+.anchor {
+    text-decoration: none;
+}
+
+.social {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.about{
+    background-color: darkslategrey;
+    color: antiquewhite;
+}
